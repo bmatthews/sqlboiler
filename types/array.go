@@ -33,7 +33,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ericlagergren/decimal"
+	"github.com/ericlagergren/decimal/v3"
 	"github.com/lib/pq/oid"
 	"github.com/volatiletech/sqlboiler/randomize"
 )

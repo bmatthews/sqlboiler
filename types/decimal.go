@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ericlagergren/decimal"
+	"github.com/ericlagergren/decimal/v3"
 )
 
 // Decimal is a DECIMAL in sql. Its zero value is valid for use with both
